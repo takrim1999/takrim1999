@@ -1,59 +1,35 @@
-## Hi, I'm Md. Takrim Ul Alam — Full‑Stack & Data‑Curious Engineer
-I build pragmatic tools and systems that make everyday workflows faster and more reliable. Based in Bangladesh. Open to remote roles.
+## Hi there 👋, I'm Md. Takrim Ul Alam
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://github.com/takrim1999)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/takrim1999/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge)](https://github.com/takrim1999)
-[![Email](https://img.shields.io/badge/Email-Contact-DD4B39?style=for-the-badge&logo=gmail&logoColor=white)](mailto:takrim1999+gh@proton.me)
+### 🚀 About Me
+👨‍💻 Developer interested in full‑stack web, networking, and data engineering<br>
+🧠 Currently learning React and Node.js; enjoy building useful Python tools<br>
+📍 Based in Bangladesh · Open to remote collaboration
 
-### What I’m best at
-- **Shipping practical software:** Python-first projects, automation, and small tools that remove manual toil.
-- **Learning fast and executing:** From scrapers to small web apps, I get ideas into code quickly.
-- **Owning end-to-end:** Problem discovery → simple architecture → delivery → iteration based on feedback.
+### 🛠 Skills
+HTML · CSS · JavaScript · Python · C · SQL · Basics of Networking & Data Pipelines<br>
 
-### Selected projects
-- **pet_trex** — Pet tracking/utility toolkit prototype.
-  - **Stack:** Python
-  - **Impact:** Personal project; iterated from idea to working prototype.
-  - [GitHub](https://github.com/takrim1999/pet_trex)
+### 🌐 Let's connect
+[<img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='linkedin' height='34'>](https://www.linkedin.com/in/takrim1999/)
+[<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='34'>](https://github.com/takrim1999)
+[<img src='https://cdn-icons-png.flaticon.com/512/733/733579.png' alt='twitter' height='34'>](https://twitter.com/TakrimUlAlam)
+[<img src='https://cdn-icons-png.flaticon.com/512/732/732200.png' alt='email' height='34'>](mailto:takrim1999+gh@proton.me)
 
-- **time_waste** — Small Python utilities/playground.
-  - **Stack:** Python
-  - **Impact:** Experiments that shaped my scripting habits and patterns.
-  - [GitHub](https://github.com/takrim1999/time_waste)
+---
 
-- **fb_scrap** — Quick Facebook data scraping experiment.
-  - **Stack:** Python
-  - **Impact:** Learned requests/automation patterns; built a minimal data pull.
-  - [GitHub](https://github.com/takrim1999/fb_scrap)
+### 📌 Featured Projects
+- pet_trex — Pet tracking/utility toolkit prototype. [Repo](https://github.com/takrim1999/pet_trex)
+- time_waste — Python utilities and experiments. [Repo](https://github.com/takrim1999/time_waste)
+- fb_scrap — Lightweight scraping experiment. [Repo](https://github.com/takrim1999/fb_scrap)
 
-### Skills and tools
-- **Languages:** `Python` `C` `SQL`
-- **Automation & Scripting:** `Requests` `BeautifulSoup` `Selenium`
-- **Data & Storage:** `CSV` `JSON` `SQLite`
-- **Dev Tools:** `Git` `GitHub` `VS Code`
+### 📊 Activity & Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=takrim1999)](https://git.io/streak-stats)
 
-### Experience highlights
-- Learning-driven builder; I prioritize clarity and a working baseline, then iterate.
-- Comfortable reading docs/source and finding minimal, reliable solutions.
+<img src="https://github-readme-stats.vercel.app/api?username=takrim1999&count_private=true&show_icons=true" alt="Takrim's github stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takrim1999&langs_count=8&layout=compact" alt="Top Langs" height="160" />
 
-### Open source & writing
-- Exploring contributions to small Python utilities and data tooling.
+[![trophy](https://github-profile-trophy.vercel.app/?username=takrim1999&margin-w=5&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Currently
-- Building: small automation scripts and data utilities.
-- Exploring roles in: **Junior Software Engineer**, **Python Developer**, **Data Engineering Intern**.
-- Happy to chat about: getting started with Python, practical automation.
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=takrim1999&color=blue)
 
-### Get in touch
-- `Email:` takrim1999+gh@proton.me
-- `LinkedIn:` https://www.linkedin.com/in/takrim1999/
-
-<details>
-  <summary>GitHub stats (optional)</summary>
-
-  <br />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=takrim1999&show_icons=true&theme=default&hide_rank=false" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takrim1999&layout=compact&langs_count=8" alt="Top Languages" height="160" />
-</details>
+<img align="center" src="https://profile-counter.glitch.me/{takrim1999}/count.svg" />
