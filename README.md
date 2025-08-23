@@ -9,8 +9,9 @@ Don't know anything
  <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takrim1999&theme=vision_friendly_dark) -->
 ![Takrim's github stats](https://github-readme-stats.vercel.app/api?username=takrim1999&count_private=true&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takrim1999&langs_count=8&layout=compact&theme=dark)](https://github.com/takrim1999)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takrim1999&theme=vision_friendly_dark&utcOffset=6)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=takrim1999&theme=vision_friendly_dark" alt="GitHub Streak" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=takrim1999&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takrim1999&theme=vision_friendly_dark&utcOffset=6)
 ---
 ![](https://komarev.com/ghpvc/?username=takrim1999&color=blue)
